@@ -1,0 +1,20 @@
+.txt-c{
+    text-align: center;
+}
+
+.btn-1{
+    padding: 0;
+    margin: 0;
+    background-color: transparent;
+    border:none;
+}
+
+.btn-1 :hover{
+    padding-bottom: 2px;
+    border-bottom: 1px solid;
+    color: black;
+}
+
+.font-c{
+color: gray;
+}

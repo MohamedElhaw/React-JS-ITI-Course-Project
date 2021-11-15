@@ -1,0 +1,27 @@
+form{
+    width: 40%;
+    height: 50vh;
+}
+ 
+input, label{
+    display: block;
+    margin-left: 1vw;
+    margin-right: 1vw;
+    width: 100%;
+}
+label{
+    margin-top: 1vh;
+}
+#btn-submit{
+    width: fit-content;
+    margin-top: 2vh;
+}
+.new-product-pg-title{
+    margin: 2vh 1vw;
+}
+
+.error{
+    color: red;
+    margin: 0 1vw 1vh;
+    width:100%;
+}

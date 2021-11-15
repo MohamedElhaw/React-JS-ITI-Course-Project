@@ -1,0 +1,7 @@
+
+.cart-items-qty span{
+    padding: 0 0.5vw;
+    color: white;
+    background-color: rgb(0, 127, 201);
+    margin: 0 0.5vw;
+}
